@@ -1,0 +1,15 @@
+﻿  CObject.cpp
+  imgui_impl_dx9.cpp
+  imgui.cpp
+  imgui_draw.cpp
+  imgui_widgets.cpp
+  imgui_impl_win32.cpp
+  ImRender.cpp
+  LoL base.cpp
+  stdafx.cpp
+  dllmain.cpp
+  Kod üretiliyor
+  Previous IPDB not found, fall back to full compilation.
+  All 942 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Kodun üretilmesi tamamlandı
+  LoL base.vcxproj -> C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\Release\LoL base.dll

@@ -1,0 +1,224 @@
+﻿  dllmain.cpp
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\Utils.h(27,5): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'int *' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\Utils.h(28,33): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'DWORD *' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\Utils.h(28,34): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'char *' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\Utils.h(30,23): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'char *' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellData.h(7,1): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'SpellData *' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellData.h(7,1): warning C4302: 'tür dönüştürme': 'SpellData *' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellData.h(10,1): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'SpellData *' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellData.h(10,1): warning C4302: 'tür dönüştürme': 'SpellData *' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellData.h(13,1): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'SpellData *' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellData.h(13,1): warning C4302: 'tür dönüştürme': 'SpellData *' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellData.h(16,1): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'SpellData *' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellData.h(16,1): warning C4302: 'tür dönüştürme': 'SpellData *' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellData.h(16,1): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'float *' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellData.h(19,1): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'SpellData *' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellData.h(19,1): warning C4302: 'tür dönüştürme': 'SpellData *' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellData.h(19,1): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'float *' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellData.h(22,1): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'SpellData *' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellData.h(22,1): warning C4302: 'tür dönüştürme': 'SpellData *' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellData.h(22,1): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'float *' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellData.h(26,1): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'SpellData *' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellData.h(26,1): warning C4302: 'tür dönüştürme': 'SpellData *' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellData.h(26,1): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'float *' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellData.h(29,1): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'SpellData *' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellData.h(29,1): warning C4302: 'tür dönüştürme': 'SpellData *' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellData.h(29,1): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'float *' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellData.h(32,1): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'SpellData *' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellData.h(32,1): warning C4302: 'tür dönüştürme': 'SpellData *' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellData.h(32,1): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'float *' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellData.h(35,1): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'SpellData *' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellData.h(35,1): warning C4302: 'tür dönüştürme': 'SpellData *' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellData.h(35,1): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'float *' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellData.h(38,1): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'SpellData *' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellData.h(38,1): warning C4302: 'tür dönüştürme': 'SpellData *' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellData.h(38,1): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'int *' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellData.h(41,1): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'SpellData *' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellData.h(41,1): warning C4302: 'tür dönüştürme': 'SpellData *' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellData.h(41,1): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'float *' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellData.h(45,1): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'SpellData *' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellData.h(45,1): warning C4302: 'tür dönüştürme': 'SpellData *' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellData.h(45,1): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'float *' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellData.h(49,1): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'SpellData *' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellData.h(49,1): warning C4302: 'tür dönüştürme': 'SpellData *' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellData.h(49,1): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'float *' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellData.h(53,1): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'SpellData *' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellData.h(53,1): warning C4302: 'tür dönüştürme': 'SpellData *' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellData.h(53,1): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'int *' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellData.h(56,1): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'SpellData *' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellData.h(56,1): warning C4302: 'tür dönüştürme': 'SpellData *' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellData.h(56,1): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'int *' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellData.h(59,1): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'SpellData *' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellData.h(59,1): warning C4302: 'tür dönüştürme': 'SpellData *' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellData.h(59,1): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'float *' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellData.h(63,1): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'SpellData *' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellData.h(63,1): warning C4302: 'tür dönüştürme': 'SpellData *' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellData.h(63,1): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'float *' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellData.h(66,1): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'SpellData *' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellData.h(66,1): warning C4302: 'tür dönüştürme': 'SpellData *' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellData.h(66,1): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'SpellData **' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellInfo.h(10,1): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'SpellInfo *' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellInfo.h(10,1): warning C4302: 'tür dönüştürme': 'SpellInfo *' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellInfo.h(10,1): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'SpellData *' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellSlot.h(11,1): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'SpellSlot *' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellSlot.h(11,1): warning C4302: 'tür dönüştürme': 'SpellSlot *' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellSlot.h(11,1): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'int *' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellSlot.h(15,1): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'SpellSlot *' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellSlot.h(15,1): warning C4302: 'tür dönüştürme': 'SpellSlot *' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellSlot.h(15,1): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'float *' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellSlot.h(19,1): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'SpellSlot *' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellSlot.h(19,1): warning C4302: 'tür dönüştürme': 'SpellSlot *' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellSlot.h(19,1): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'float *' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellSlot.h(28,1): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'SpellSlot *' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellSlot.h(28,1): warning C4302: 'tür dönüştürme': 'SpellSlot *' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\SpellSlot.h(28,1): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'SpellInfo *' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CSpellBook.h(12,1): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'CSpellBook *' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CSpellBook.h(12,1): warning C4302: 'tür dönüştürme': 'CSpellBook *' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CSpellBook.h(12,1): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'SpellSlot **' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObject.h(89,1): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'HMODULE' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObject.h(89,1): warning C4302: 'tür dönüştürme': 'HMODULE' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObject.h(89,1): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'fnGetFirst' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObject.h(89,1): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'void **' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObject.h(95,1): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'HMODULE' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObject.h(95,1): warning C4302: 'tür dönüştürme': 'HMODULE' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObject.h(95,1): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'fnGetNext' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObject.h(95,1): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'void **' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObject.h(99,1): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'CObject *' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObject.h(99,1): warning C4302: 'tür dönüştürme': 'CObject *' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObject.h(99,1): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'short *' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObject.h(103,1): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'CObject *' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObject.h(103,1): warning C4302: 'tür dönüştürme': 'CObject *' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObject.h(103,1): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'DWORD *' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObject.h(107,1): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'CObject *' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObject.h(107,1): warning C4302: 'tür dönüştürme': 'CObject *' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObject.h(107,1): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'Vector *' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObject.h(111,1): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'CObject *' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObject.h(111,1): warning C4302: 'tür dönüştürme': 'CObject *' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObject.h(111,1): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'int *' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObject.h(115,1): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'CObject *' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObject.h(115,1): warning C4302: 'tür dönüştürme': 'CObject *' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObject.h(115,1): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'float *' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObject.h(119,1): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'CObject *' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObject.h(119,1): warning C4302: 'tür dönüştürme': 'CObject *' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObject.h(119,1): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'float *' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObject.h(124,1): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'CObject *' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObject.h(124,1): warning C4302: 'tür dönüştürme': 'CObject *' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObject.h(124,1): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'float *' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObject.h(132,1): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'CObject *' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObject.h(132,1): warning C4302: 'tür dönüştürme': 'CObject *' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObject.h(132,1): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'float *' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObject.h(136,1): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'CObject *' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObject.h(136,1): warning C4302: 'tür dönüştürme': 'CObject *' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObject.h(136,1): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'float *' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObject.h(140,1): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'CObject *' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObject.h(140,1): warning C4302: 'tür dönüştürme': 'CObject *' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObject.h(140,1): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'float *' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObject.h(144,1): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'CObject *' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObject.h(144,1): warning C4302: 'tür dönüştürme': 'CObject *' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObject.h(144,1): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'bool *' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObject.h(171,1): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'CObject *' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObject.h(171,1): warning C4302: 'tür dönüştürme': 'CObject *' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObject.h(175,1): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'CObject *' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObject.h(175,1): warning C4302: 'tür dönüştürme': 'CObject *' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObject.h(179,1): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'CObject *' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObject.h(179,1): warning C4302: 'tür dönüştürme': 'CObject *' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObject.h(179,1): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'int *' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObject.h(183,1): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'CObject *' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObject.h(183,1): warning C4302: 'tür dönüştürme': 'CObject *' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObject.h(183,1): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'CSpellBook *' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObjectManager.h(12,1): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'HMODULE' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObjectManager.h(12,1): warning C4302: 'tür dönüştürme': 'HMODULE' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObjectManager.h(12,1): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'DWORD *' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObjectManager.h(12,1): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'CObject ***' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObjectManager.h(26,1): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'HMODULE' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObjectManager.h(26,1): warning C4302: 'tür dönüştürme': 'HMODULE' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObjectManager.h(26,1): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'DWORD *' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\CObjectManager.h(26,1): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'CObject ***' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\Engine.h(14,1): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'HMODULE' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\Engine.h(14,1): warning C4302: 'tür dönüştürme': 'HMODULE' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\Engine.h(15,1): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'DWORD *' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\Engine.h(17,1): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'DWORD *' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\Engine.h(20,1): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'float *' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\Engine.h(21,1): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'float *' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\Engine.h(22,1): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'float *' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\Engine.h(28,1): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'HMODULE' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\Engine.h(28,1): warning C4302: 'tür dönüştürme': 'HMODULE' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\Engine.h(28,1): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'float *' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\Engine.h(32,1): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'HMODULE' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\Engine.h(32,1): warning C4302: 'tür dönüştürme': 'HMODULE' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\Engine.h(32,1): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'DWORD *' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\Engine.h(36,1): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'CObject *' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\Engine.h(40,1): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'HMODULE' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\Engine.h(40,1): warning C4302: 'tür dönüştürme': 'HMODULE' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\Engine.h(40,1): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'tPrintChat' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\Engine.h(41,1): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'HMODULE' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\Engine.h(41,1): warning C4302: 'tür dönüştürme': 'HMODULE' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\Engine.h(41,1): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'DWORD *' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\Engine.h(65,1): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'CObject *' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\Engine.h(65,1): warning C4302: 'tür dönüştürme': 'CObject *' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\Engine.h(72,1): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'CObject *' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\Engine.h(72,1): warning C4302: 'tür dönüştürme': 'CObject *' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\Engine.h(80,1): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'CObject *' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\Engine.h(80,1): warning C4302: 'tür dönüştürme': 'CObject *' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\Engine.h(88,1): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'CObject *' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\Engine.h(88,1): warning C4302: 'tür dönüştürme': 'CObject *' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(64,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(167,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(202,44): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'HMODULE' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(202,44): warning C4302: 'tür dönüştürme': 'HMODULE' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(205,6): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'WORD *' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(206,1): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'WORD *' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(207,1): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'WORD *' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(218,50): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'DWORD *' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(229,45): error C2065: 'GWL_WNDPROC': bildirimi yapılmamış tanımlayıcı
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(231,52): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'HMODULE' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(231,52): warning C4302: 'tür dönüştürme': 'HMODULE' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(231,66): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'DWORD *' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(231,67): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'CObjectManager *' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(233,57): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'HMODULE' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(233,57): warning C4302: 'tür dönüştürme': 'HMODULE' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(233,70): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'Typedefs::fnPrintChat' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(234,63): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'HMODULE' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(234,63): warning C4302: 'tür dönüştürme': 'HMODULE' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(234,79): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'Typedefs::fnIsTargetable' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(235,53): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'HMODULE' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(235,53): warning C4302: 'tür dönüştürme': 'HMODULE' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(235,64): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'Typedefs::fnIsAlive' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(237,55): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'HMODULE' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(237,55): warning C4302: 'tür dönüştürme': 'HMODULE' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(237,67): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'Typedefs::fnIsMinion' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(238,55): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'HMODULE' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(238,55): warning C4302: 'tür dönüştürme': 'HMODULE' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(238,67): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'Typedefs::fnIsTurret' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(239,51): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'HMODULE' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(239,51): warning C4302: 'tür dönüştürme': 'HMODULE' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(239,61): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'Typedefs::fnIsHero' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(240,57): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'HMODULE' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(240,57): warning C4302: 'tür dönüştürme': 'HMODULE' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(240,70): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'Typedefs::fnIsMissile' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(241,53): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'HMODULE' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(241,53): warning C4302: 'tür dönüştürme': 'HMODULE' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(241,64): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'Typedefs::fnIsNexus' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(242,61): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'HMODULE' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(242,61): warning C4302: 'tür dönüştürme': 'HMODULE' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(242,72): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'Typedefs::fnIsInhibitor' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(243,57): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'HMODULE' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(243,57): warning C4302: 'tür dönüştürme': 'HMODULE' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(243,67): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'Typedefs::fnIsTroyEnt' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(246,79): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'HMODULE' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(246,79): warning C4302: 'tür dönüştürme': 'HMODULE' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(246,93): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'Typedefs::fnIssueOrder' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(247,79): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'HMODULE' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(247,79): warning C4302: 'tür dönüştürme': 'HMODULE' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(247,93): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'Typedefs::fnDrawCircle' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(248,63): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'HMODULE' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(248,63): warning C4302: 'tür dönüştürme': 'HMODULE' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(248,87): warning C4312: 'tür dönüştürme': 'unsigned long' öğesinden daha büyük boyutlu 'Typedefs::WorldToScreen' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(250,95): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'HMODULE' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(250,95): warning C4302: 'tür dönüştürme': 'HMODULE' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(250,117): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'Typedefs::fnGetAttackCastDelay' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(251,87): warning C4311: 'tür dönüştürme': işaretçi kesilmesi: 'HMODULE' - 'DWORD'
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(251,87): warning C4302: 'tür dönüştürme': 'HMODULE' iken 'DWORD' olarak kesildi
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(251,105): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'Typedefs::fnGetAttackDelay' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(253,82): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'PBYTE' öğesine dönüştürme
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(254,78): warning C4312: 'tür dönüştürme': 'DWORD' öğesinden daha büyük boyutlu 'PBYTE' öğesine dönüştürme

@@ -1,0 +1,15 @@
+﻿  CObject.cpp
+  imgui_impl_dx9.cpp
+  imgui.cpp
+  imgui_draw.cpp
+  imgui_widgets.cpp
+  imgui_impl_win32.cpp
+  ImRender.cpp
+  LoL base.cpp
+  stdafx.cpp
+  Kod Üretiliyor...
+  dllmain.cpp
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(64,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\rixaa\OneDrive\Masaüstü\lolbase-imgui-10.16-master\LoL base\dllmain.cpp(167,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1094,5): error MSB6006: "link.exe" öğesinden 1104 koduyla çıkıldı.
+LINK : fatal error LNK1104: 'kernel32.lib' dosyası açılamıyor
